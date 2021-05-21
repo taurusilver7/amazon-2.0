@@ -1,3 +1,8 @@
+# Amazon 2.0
+
+> A shopping store build using next-js for server-side rendering, vercel for deployment, fakestore api end-point.
+> Tailwind css as style preprocessor & stripe for payment gateway.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
